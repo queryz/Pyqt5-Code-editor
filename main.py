@@ -2,7 +2,7 @@
 ##
 ##  BY : QUERYZ <queryzram@gmail.com>
 ##  VERSION : 1.0.0
-##  CREATED BY : PYQT5
+##  CREATED WITH: PYQT5
 ##
 ###################
 
