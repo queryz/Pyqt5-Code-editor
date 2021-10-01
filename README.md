@@ -1,2 +1,2 @@
-# Pyqt5-Code-editor
+# PyQt5-QueryGui
 None\Null\NaN
